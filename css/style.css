@@ -129,12 +129,13 @@ html {
     font-weight: 800;
     font-size: 30px;
     padding-bottom: 15px;
+    padding-left: 35px;
 }
 
 .left-part,
 .right-part {
     box-shadow: -17px 4px 23px #ddd;
-    padding: 30px 15px 10px 15px;
+    padding: 30px 15px 20px 15px;
     border-radius: 10px;
 }
 
